@@ -1,6 +1,14 @@
 {
-  "require": {
-    "php": "^5.6.0"
-  }
+    "name": "abhishek/rpi_nas_php",
+    "description": "A simple nas with RPI",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Abhishek Balam",
+            "email": "abhishekbalam96@gmail.com"
+        }
+    ],
+    "require": {
+    	"php": "^7.1.18"
+    }
 }
-
